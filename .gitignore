@@ -3,14 +3,13 @@
 *.exe
 *.exe~
 *.dll
-*.so
 *.dylib
 
 # Test binary, built with `go test -c`
 *.test
 
 # build output dir
-bin
+#bin
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
